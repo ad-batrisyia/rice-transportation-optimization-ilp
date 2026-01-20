@@ -96,7 +96,7 @@ transportation network.
 
 ## 📁 Repository Content
 - `README.md` – Project overview, methodology, assumptions, and results summary
-- `slides/` – Detailed explanation of the model, formulation, and findings
+- `slides/` – [Detailed explanation of the model, formulation, and findings](slides/rice_transportation_optimization.pdf)
 - `model/` – Excel Solver implementation containing data, assumptions, and scenario analysis
 
 ---
